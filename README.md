@@ -1,4 +1,4 @@
-Peaky-DDOS Tool
+DDOS Tool
 
 Warning: This tool is for entertainment purposes only! (Just kidding, don't use it for anything nefarious)
 
@@ -14,6 +14,4 @@ Instructions:
 
 1. Don't actually use this tool for anything.
 2. Pretend you're a Peaky Blinder and have a cup of tea instead.
-3. If you're feeling mischievous, play a prank on your friend (but not a mean one, we don't condone that either)
-
-Official Link: (https://discord.gg/QXxp5E33Pg)
+3. If you're feeling mischievous, play a prank on your friend
